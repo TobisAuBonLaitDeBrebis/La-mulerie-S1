@@ -1,0 +1,29 @@
+Objet,Détail,Date,Dépense,Type
+JUGE Puget sur Argens,essence pour aller juger le trec de ,01/15/23,"30,00 €",Transport
+JUGE Puget sur Argens,Biére pour tout le monde,01/15/23,"15,00 €",Biére
+JUGE Formation juge,Péage,05/02/2023,"11,50 €",Transport
+JUGE Formation juge,essence,02/05/23,"50,00 €",Transport
+JUGE Poet,essence,02/25/23,"46,00 €",Transport
+JUGE Poet,resto,02/25/23,"22,00 €",Alimentaire
+JUGE Poet,essence,02/25/23,"19,50 €",Transport
+materiel ,gilet de cross,03/15/23,"90,00 €",Matériel 
+aups ,photo mule,03/17/23,"18,50 €",Photo
+aups ,Engagement,,"45,00 €",Engagement
+aups ,Transport,,"30,00 €",Transport
+aups ,Buvette,,"20,00 €",Alimentaire
+Ollirére,Egagement,,"45,00 €",Egagement
+Ollirére,Transport,,"30,00 €",Transport
+Ollirére,buvette,,"10,00 €",Alimentaire
+materiel ,Boussole +flask,03/24/23,"21,00 €",Matériel 
+materiel ,Boussole +flask,03/24/23,"21,00 €",Mate
+Montauroux ,Photo,05/21/23,15,Photo
+Montauroux ,Engagement,,45,Engagement
+Montauroux ,Transport,05/22/23,50,Transport
+Ride and Fun,Engagement CSO,,"65,00 €",Engagement
+Ride and Fun,Manger,,"66,00 €",Alimentaire
+Ride and Fun,biére pour tout le monde,,30,Biére
+Ride and Fun,essence,,60,Transport
+Ride and Fun,photo,,50,Photo
+Ride and Fun,parc ,,45,Intendance animal
+Ride and Fun,engagement TREC,,65,Engagement
+Total,,,"1 015,50 €","84,625"
