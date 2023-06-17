@@ -1,8 +1,8 @@
-type ,Semaine,distance (en km ),durée ,d+ (en m)
+type,Semaine,distance,durée,d+
 sortie,1,8,1h30,6
 sortie,1,8,1h30,6
 sortie,2,"8,9",1h15,6
-Sortie,2,"8,9",1h15,6
+sortie,2,"8,9",1h15,6
 carriére,2,,,
 sortie,3,"7,3",1h15,6
 carriére ,3,,,
