@@ -1,38 +1,38 @@
 type ,Semaine,distance (en km ),durée ,d+ (en m)
-sorite ,1,8,1h30,6
-sorite ,1,8,1h30,6
+sortie ,1,8,1h30,6
+sortie ,1,8,1h30,6
+sortie,2,"8,9",1h15,6
 Sortie,2,"8,9",1h15,6
-Sortie,2,"8,9",1h15,6
-Carriére ,2,,,
-sorie ,3,"7,3",1h15,6
-Carriére ,3,,,
+carriére ,2,,,
+sortie ,3,"7,3",1h15,6
+carriére ,3,,,
 sortie,4,"8,1",1h36,243
-sorite ,4,"8,2",1h4,6
-Carriére ,4,,,
-Carriére ,4,,,
+sortie ,4,"8,2",1h4,6
+carriére ,4,,,
+carriére ,4,,,
 sortie,5,"8,6",54min,6
 sortie,5,"8,9",1h45,243
-sorite ,5,"11,4",1h20,6
-Carriére ,5,,,
+sortie ,5,"11,4",1h20,6
+carriére ,5,,,
 sortie,6,"11,6",2h4,322
 sortie,6,"10,1",1h32,8
-sorite ,6,"8,87",1h52,331
-Carriére ,6,,,
-Sortie,7,"9,7",1h28,8
-Carriére ,8,,,
+sortie ,6,"8,87",1h52,331
+carriére ,6,,,
+sortie,7,"9,7",1h28,8
+carriére ,8,,,
 sortie,9,16,6h,600
 carriére ,9,,,
 longe,9,,,
-trotting ,10,4,40min,0
+sortie ,10,4,40min,0
 longe,10,9,1h,0
 carriére ,10,,,
-sorite ,12,4,40min,0
+sortie ,12,4,40min,0
 sortie,12,"10,37",1h53,336
-sorite ,12,"11,23",2h1,284
-sorite ,13,"11,2",2h,284
+sortie ,12,"11,23",2h1,284
+sortie ,13,"11,2",2h,284
 carriére ,14,,,
-sorite ,14,"12,89",1h57,219
+sortie ,14,"12,89",1h57,219
 carriére ,14,,,
 carriére ,15,,,
-sorite ,15,"10,4",1h30,126
+sortie ,15,"10,4",1h30,126
 longe,15,,,
