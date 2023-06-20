@@ -1,5 +1,5 @@
 
-P.O.R. (Parcours d'Orientation et de Régularité) (noté sur 300)
+
 tronçon,vitesse,distance,idéal,départ,arrivée,réel,delta,pénalités,points
 T1,6.00,1.66,00:16,08:15,08:57,00:42,00:25,25,0,25
 T2,5.50,1.50,00:16,09:02,09:25,00:23,00:06,6,0,6
@@ -10,7 +10,7 @@ T6,6.50,1.66,00:15,11:24,11:56,00:32,00:16,16,30,46
 T7,00:00,00:00,,,00:00,00:00,0,0
 T8,00:00,00:00,,,00:00,00:00,0,0
 
-P.T.V. (Parcours en Terrain Varié) (noté sur 140)
+
 N°,note,N°,note,N°,note,N°,note,Chute ou ENR
 1,9,5,10,9,10,13,3,0
 2,0,6,10,10,0,14,10
